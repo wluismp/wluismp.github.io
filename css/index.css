@@ -1,0 +1,4141 @@
+.version.index /* version checker */
+{
+	color: #0000E7;
+	background-color: #FB3DEA;
+}
+
+.html
+{
+	background-color: #202020;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1280px;
+	min-height: 32750px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	margin-bottom: -36px;
+	width: 0.01px;
+}
+
+#u546
+{
+	z-index: 539;
+	min-height: 705.9124021708421px;
+	-pie-box-shadow: 0px 10px 8px #999999;
+	box-shadow: 0px 10px 8px rgba(0,0,0,0.4);
+	padding-bottom: 0px;
+	background: #777F50 url("../images/letras-t%c3%adtulo-color4.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u546_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1280px;
+	position: relative;
+	left: -100px;
+	padding-top: 116px;
+	padding-bottom: 42px;
+}
+
+#u562
+{
+	z-index: 548;
+	width: 190px;
+	background-color: transparent;
+	left: 645px;
+	position: relative;
+}
+
+#u559-8
+{
+	z-index: 540;
+	display: block;
+	vertical-align: top;
+	left: 435px;
+	margin-top: 387px;
+	position: relative;
+}
+
+#u546-bw
+{
+	z-index: 539;
+	min-height: 705.9124021708421px;
+}
+
+#u1705
+{
+	z-index: 550;
+	width: 80px;
+	height: 32px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 633px;
+	left: 700px;
+	background: transparent url("../images/flecha.png") no-repeat center center;
+	background-size: contain;
+}
+
+#pu546,#pu1690
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u1690
+{
+	z-index: 3;
+	min-height: 241px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	padding-bottom: 39px;
+	background: transparent url("../images/letras-t%c3%adtulo-01.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u760
+{
+	z-index: 132;
+	vertical-align: top;
+	width: 1036px;
+	height: 165px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 76px;
+	left: 225px;
+	background: url("../images/el-inicio-u760.png") no-repeat 0px 0px;
+}
+
+#u1690-bw
+{
+	z-index: 3;
+	min-height: 241px;
+}
+
+#u1463
+{
+	z-index: 133;
+	width: 1201px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 58px;
+	left: 135px;
+}
+
+#u775-4
+{
+	z-index: 215;
+	width: 400px;
+	min-height: 48px;
+	background-color: transparent;
+	color: #F3E6D5;
+	font-size: 22px;
+	text-align: center;
+	line-height: 26px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 405px;
+	position: relative;
+}
+
+#u168-4
+{
+	z-index: 134;
+	width: 505px;
+	min-height: 55px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 90px;
+	margin-top: 774px;
+	position: relative;
+}
+
+#u189-4
+{
+	z-index: 138;
+	width: 485px;
+	min-height: 49px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 5px;
+	margin-top: 1876px;
+	position: relative;
+}
+
+#u500-4
+{
+	z-index: 142;
+	width: 360px;
+	min-height: 49px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 425px;
+	margin-top: 489px;
+	position: relative;
+}
+
+#pu200-6
+{
+	width: 0.01px;
+	margin-left: 43px;
+	margin-top: 433px;
+}
+
+#u200-6
+{
+	z-index: 209;
+	width: 389px;
+	min-height: 36px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u508-4
+{
+	z-index: 146;
+	width: 305px;
+	min-height: 36px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 515px;
+}
+
+#u728
+{
+	z-index: 160;
+	width: 912px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 123px;
+	margin-top: 872px;
+	position: relative;
+}
+
+#u509-4
+{
+	z-index: 161;
+	width: 335px;
+	min-height: 36px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u511-6
+{
+	z-index: 165;
+	width: 335px;
+	min-height: 36px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 577px;
+}
+
+#pu512-6
+{
+	width: 0.01px;
+	margin-top: 866px;
+}
+
+#u512-6
+{
+	z-index: 154;
+	width: 578px;
+	min-height: 74px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u515-6
+{
+	z-index: 171;
+	width: 560px;
+	min-height: 57px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 641px;
+}
+
+#pu516-4
+{
+	width: 0.01px;
+	margin-left: 8px;
+	margin-top: 862px;
+}
+
+#u516-4
+{
+	z-index: 150;
+	width: 335px;
+	min-height: 36px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+}
+
+#u518-8
+{
+	z-index: 177;
+	width: 586px;
+	min-height: 51px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 523px;
+}
+
+#pu519-4
+{
+	width: 0.01px;
+	margin-left: 5px;
+	margin-top: 414px;
+}
+
+#u519-4
+{
+	z-index: 185;
+	width: 485px;
+	min-height: 57px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u522-4
+{
+	z-index: 193;
+	width: 456px;
+	min-height: 57px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 740px;
+}
+
+#u526-4
+{
+	z-index: 197;
+	width: 333px;
+	min-height: 54px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 639px;
+	margin-top: 60px;
+	position: relative;
+}
+
+#u524-4
+{
+	z-index: 189;
+	width: 570px;
+	min-height: 72px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 5px;
+	margin-top: 264px;
+	position: relative;
+}
+
+#pu527-4
+{
+	width: 0.01px;
+	margin-left: 5px;
+	margin-top: 377px;
+}
+
+#u527-4
+{
+	z-index: 201;
+	width: 591px;
+	min-height: 75px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+}
+
+#u529-4
+{
+	z-index: 205;
+	width: 456px;
+	min-height: 75px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 739px;
+}
+
+#pu231
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: -7825px;
+}
+
+#pu231_position_content
+{
+	margin-top: -908px;
+	padding-bottom: 8753px;
+}
+
+#u231
+{
+	z-index: 90;
+	height: 655px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: none;
+	border-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	background: transparent url("../images/1-cdro-1-2.gif") no-repeat center center;
+	background-size: cover;
+}
+
+.js #u231.ose_pre_init
+{
+	opacity: 0.2;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+	filter: alpha(opacity=20);
+}
+
+#u231-bw
+{
+	z-index: 90;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: 970px;
+}
+
+#u488
+{
+	z-index: 91;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 1645px;
+	left: 20px;
+}
+
+#u239
+{
+	z-index: 92;
+	width: 715px;
+	height: 440px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/2-cdro-2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u246
+{
+	z-index: 93;
+	width: 505px;
+	height: 440px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 735px;
+	background: transparent url("../images/3-cdro-3.jpg") no-repeat left center;
+	background-size: cover;
+}
+
+#u1861
+{
+	z-index: 233;
+	vertical-align: top;
+	width: 364px;
+	height: 202px;
+	position: fixed;
+	top: 1772px;
+	left: 566px;
+	background: url("../images/los-pacos-u1861.png") no-repeat 0px 0px;
+}
+
+#u489
+{
+	z-index: 94;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 2105px;
+	left: 20px;
+}
+
+#u253
+{
+	z-index: 95;
+	width: 610px;
+	height: 399px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/4-cdro-4.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u258
+{
+	z-index: 96;
+	width: 610px;
+	height: 399px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 630px;
+	background: transparent url("../images/5-cdro-5.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u268
+{
+	z-index: 97;
+	width: 1030px;
+	height: 544px;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 2524px;
+	left: 125px;
+	background: transparent url("../images/6-cdro-6-u268-fr.png") no-repeat center center;
+}
+
+#u176-4
+{
+	z-index: 219;
+	width: 400px;
+	min-height: 33px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 2876px;
+	left: 145px;
+}
+
+#u490
+{
+	z-index: 98;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 3088px;
+	left: 20px;
+}
+
+#u276
+{
+	z-index: 99;
+	width: 610px;
+	height: 467px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/7-cdro-7.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u283
+{
+	z-index: 100;
+	width: 610px;
+	height: 467px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 630px;
+	background: transparent url("../images/8-cdro-8.gif") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u491
+{
+	z-index: 101;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 3575px;
+	left: 20px;
+}
+
+#u291
+{
+	z-index: 102;
+	width: 400px;
+	height: 523px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/9-cdro-9.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u298
+{
+	z-index: 103;
+	width: 400px;
+	height: 523px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 420px;
+	background: transparent url("../images/10-cdro-10.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u305
+{
+	z-index: 104;
+	width: 400px;
+	height: 523px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 840px;
+	background: transparent url("../images/11-cdro-11.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u492
+{
+	z-index: 105;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 4118px;
+	left: 20px;
+}
+
+#u313
+{
+	z-index: 106;
+	width: 505px;
+	height: 467px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/12-cdro-12.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u347
+{
+	z-index: 107;
+	width: 400px;
+	height: 467px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 525px;
+	background: transparent url("../images/13-cdro-13.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u327
+{
+	z-index: 108;
+	width: 295px;
+	height: 467px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 945px;
+	background: transparent url("../images/14-cdro-14.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u346
+{
+	z-index: 109;
+	height: 792px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	background: transparent url("../images/15-cdro-15.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u346-bw
+{
+	z-index: 109;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: 4605px;
+}
+
+#u493
+{
+	z-index: 110;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 5417px;
+	left: 20px;
+}
+
+#u363
+{
+	z-index: 111;
+	width: 610px;
+	height: 583px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/16-cdro-16.jpg") no-repeat left center;
+	background-size: cover;
+}
+
+#u370
+{
+	z-index: 112;
+	width: 610px;
+	height: 583px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 630px;
+	background: transparent url("../images/17-cdro-17.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u494
+{
+	z-index: 113;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 6020px;
+	left: 20px;
+}
+
+#u379
+{
+	z-index: 114;
+	width: 610px;
+	height: 450px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/18-cdro-18.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u386
+{
+	z-index: 115;
+	width: 610px;
+	height: 450px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 630px;
+	background: transparent url("../images/19-cdro-19.jpg") no-repeat left center;
+	background-size: cover;
+}
+
+#u786
+{
+	z-index: 129;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 6485px;
+	left: 20px;
+}
+
+#u778
+{
+	z-index: 131;
+	vertical-align: top;
+	width: 616px;
+	height: 456px;
+	margin-bottom: -6px;
+	position: relative;
+	margin-right: -10000px;
+	background: url("../images/20-cdro-20-u778.png") no-repeat 0px 0px;
+}
+
+#u402
+{
+	z-index: 130;
+	width: 610px;
+	height: 450px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 630px;
+	background: transparent url("../images/21-cdro-21.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u496
+{
+	z-index: 116;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 6955px;
+	left: 20px;
+}
+
+#u411
+{
+	z-index: 117;
+	width: 505px;
+	height: 450px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/22-cdro-22.gif") no-repeat left center;
+	background-size: cover;
+}
+
+#u417
+{
+	z-index: 118;
+	width: 715px;
+	height: 450px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 525px;
+	background: transparent url("../images/23-cdro-23.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u497
+{
+	z-index: 119;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 7425px;
+	left: 20px;
+}
+
+#u426
+{
+	z-index: 120;
+	width: 715px;
+	height: 450px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/24-cdro-24.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u433
+{
+	z-index: 121;
+	width: 505px;
+	height: 450px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 735px;
+	background: transparent url("../images/25-cdro-25.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u498
+{
+	z-index: 122;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 7895px;
+	left: 20px;
+}
+
+#u442
+{
+	z-index: 123;
+	width: 610px;
+	height: 450px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/26-cdro-26.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u452
+{
+	z-index: 124;
+	width: 610px;
+	height: 450px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 630px;
+	background: transparent url("../images/27-cdro-27.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u499
+{
+	z-index: 125;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 8365px;
+	left: 20px;
+}
+
+#u459
+{
+	z-index: 126;
+	width: 715px;
+	height: 450px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/28-cdro-28.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u466
+{
+	z-index: 127;
+	width: 505px;
+	height: 450px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 735px;
+	background: transparent url("../images/29-cdro-29.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u476
+{
+	z-index: 128;
+	width: 1030px;
+	height: 615px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 8835px;
+	left: 125px;
+	background: transparent url("../images/30-cdro-30.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u531-6
+{
+	z-index: 227;
+	width: 591px;
+	min-height: 72px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 9323px;
+	left: 144px;
+}
+
+#u1454
+{
+	z-index: 2;
+	min-height: 279px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	padding-bottom: 1px;
+	background: transparent url("../images/letras-t%c3%adtulo-2.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u813
+{
+	z-index: 472;
+	width: 1030px;
+	padding-bottom: 198px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 225px;
+	background: transparent url("../images/la-toma-del-poder-u813-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u814-4
+{
+	z-index: 473;
+	width: 400px;
+	min-height: 48px;
+	background-color: transparent;
+	color: #F3E6D5;
+	font-size: 22px;
+	text-align: center;
+	line-height: 26px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 315px;
+}
+
+#u1454-bw
+{
+	z-index: 2;
+	min-height: 279px;
+	margin-top: 655px;
+}
+
+#u725
+{
+	z-index: 58;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 9770px;
+	left: 20px;
+}
+
+#u595
+{
+	z-index: 59;
+	width: 505px;
+	height: 650px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/c2-1-cdro-1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u608
+{
+	z-index: 60;
+	width: 715px;
+	height: 650px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 525px;
+	background: transparent url("../images/c2-2-cdro-2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu698-4
+{
+	width: 0.01px;
+	margin-left: 45px;
+	margin-top: 574px;
+}
+
+#u698-4
+{
+	z-index: 487;
+	width: 454px;
+	min-height: 74px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u699-6
+{
+	z-index: 491;
+	width: 454px;
+	min-height: 57px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 525px;
+}
+
+#u726
+{
+	z-index: 61;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 10440px;
+	left: 20px;
+}
+
+#u615
+{
+	z-index: 62;
+	width: 610px;
+	height: 700px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/c2-3-cdro-3.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u622
+{
+	z-index: 63;
+	width: 610px;
+	height: 700px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 630px;
+	background: transparent url("../images/c2-4-cdro-4.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u700-6
+{
+	z-index: 497;
+	width: 480px;
+	min-height: 41px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 86px;
+	margin-top: 62px;
+	position: relative;
+}
+
+#u630
+{
+	z-index: 64;
+	height: 668px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	background: transparent url("../images/c2-5-cdro-5-2.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u630-bw
+{
+	z-index: 64;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: 11160px;
+}
+
+#u844
+{
+	z-index: 72;
+	vertical-align: top;
+	width: 1036px;
+	height: 556px;
+	position: fixed;
+	top: 11181px;
+	left: 240px;
+	background: url("../images/rocas-u844.png") no-repeat 0px 0px;
+}
+
+#u1868
+{
+	z-index: 87;
+	vertical-align: top;
+	width: 406px;
+	height: 261px;
+	position: fixed;
+	top: 11470px;
+	left: 105px;
+	background: url("../images/boom-u1868.png") no-repeat 0px 0px;
+}
+
+#u701-6
+{
+	z-index: 477;
+	width: 718px;
+	min-height: 56px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 11697px;
+	left: 519px;
+}
+
+#u727
+{
+	z-index: 65;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 11848px;
+	left: 20px;
+}
+
+#u637
+{
+	z-index: 66;
+	width: 820px;
+	height: 578px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/c2-6-cdro-6.gif") no-repeat left center;
+	background-size: cover;
+}
+
+#u644
+{
+	z-index: 67;
+	width: 400px;
+	height: 578px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 840px;
+	background: transparent url("../images/c2-7-cdro-7.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1875
+{
+	z-index: 88;
+	vertical-align: top;
+	width: 308px;
+	height: 199px;
+	position: fixed;
+	top: 11860px;
+	left: 315px;
+	background: url("../images/bang-u1875.png") no-repeat 0px 0px;
+}
+
+#u1882
+{
+	z-index: 89;
+	vertical-align: top;
+	width: 294px;
+	height: 189px;
+	position: fixed;
+	top: 11899px;
+	left: 1050px;
+	background: url("../images/pwsk-u1882.png") no-repeat 0px 0px;
+}
+
+#pu702-4
+{
+	width: 0.01px;
+	margin-left: 46px;
+	margin-top: 1820px;
+}
+
+#u702-4
+{
+	z-index: 503;
+	width: 689px;
+	min-height: 39px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+}
+
+#u703-4
+{
+	z-index: 507;
+	width: 353px;
+	min-height: 60px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 835px;
+}
+
+#u1479
+{
+	z-index: 6;
+	min-height: 230px;
+	padding-bottom: 50px;
+	background: transparent url("../images/papel-largo-1.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u706-6
+{
+	z-index: 529;
+	width: 1030px;
+	min-height: 118px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #202020;
+	font-size: 23px;
+	line-height: 28px;
+	letter-spacing: 1px;
+	text-align: left;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 112px;
+	left: 225px;
+}
+
+#u1479-bw
+{
+	z-index: 6;
+	min-height: 230px;
+	margin-top: 37px;
+}
+
+#pu1698
+{
+	width: 0.01px;
+	margin-left: 125px;
+	margin-top: 20px;
+}
+
+#u1698
+{
+	z-index: 57;
+	width: 1030px;
+	height: 677px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #202020;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u708-4
+{
+	z-index: 511;
+	width: 692px;
+	min-height: 57px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: 24px;
+}
+
+#u709-4
+{
+	z-index: 515;
+	width: 692px;
+	min-height: 57px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 588px;
+	left: 315px;
+}
+
+#slideshowu1240
+{
+	z-index: 73;
+	width: 0.01px;
+	height: 677px;
+	position: fixed;
+	top: 12746px;
+	left: 125px;
+}
+
+#u1257
+{
+	position: absolute;
+	width: 1030px;
+	height: 677px;
+	background-color: transparent;
+}
+
+#u1257popup
+{
+	z-index: 74;
+}
+
+#u1262
+{
+	z-index: 75;
+	width: 1030px;
+	height: 677px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1313
+{
+	z-index: 77;
+	width: 1030px;
+	height: 677px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1322
+{
+	z-index: 79;
+	width: 1030px;
+	height: 677px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1331
+{
+	z-index: 81;
+	width: 1030px;
+	height: 677px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1340
+{
+	z-index: 83;
+	width: 1030px;
+	height: 677px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1349
+{
+	z-index: 85;
+	width: 1030px;
+	height: 677px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1262_clip,#u1313_clip,#u1322_clip,#u1331_clip,#u1340_clip,#u1349_clip
+{
+	overflow: hidden;
+	width: 1030px;
+	height: 677px;
+}
+
+#u1262_img,#u1313_img,#u1322_img,#u1331_img,#u1340_img,#u1349_img
+{
+	margin-left: -3px;
+	margin-right: -3px;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u872
+{
+	z-index: 69;
+	width: 1240px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+	top: 13443px;
+	left: 20px;
+}
+
+#u664
+{
+	z-index: 70;
+	width: 715px;
+	height: 660px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/c2-9-cdro-9.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u671
+{
+	z-index: 71;
+	width: 505px;
+	height: 660px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	left: 735px;
+	background: transparent url("../images/c2-10-cdro-10.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu710-4
+{
+	width: 0.01px;
+	margin-left: 39px;
+	margin-top: 571px;
+}
+
+#u710-4
+{
+	z-index: 519;
+	width: 486px;
+	min-height: 59px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+}
+
+#u712-6
+{
+	z-index: 523;
+	width: 465px;
+	min-height: 74px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 736px;
+}
+
+#u1487
+{
+	z-index: 7;
+	min-height: 229px;
+	padding-bottom: 51px;
+	background: transparent url("../images/papel-largo-2.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u713-4
+{
+	z-index: 535;
+	width: 1030px;
+	min-height: 130px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #202020;
+	font-size: 23px;
+	line-height: 28px;
+	letter-spacing: 1px;
+	text-align: left;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 99px;
+	left: 225px;
+}
+
+#u1487-bw
+{
+	z-index: 7;
+	min-height: 229px;
+	margin-top: 37px;
+}
+
+#u678
+{
+	z-index: 68;
+	width: 1240px;
+	height: 722px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 14423px;
+	left: 20px;
+	background: transparent url("../images/c2-11-cdro-11.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u715-4
+{
+	z-index: 483;
+	width: 776px;
+	min-height: 79px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 15049px;
+	left: 125px;
+}
+
+#pu1491
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 762px;
+}
+
+#u1491
+{
+	z-index: 4;
+	height: 280px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background: transparent url("../images/letras-t%c3%adtulo-3.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1491-bw
+{
+	z-index: 4;
+	height: 280px;
+}
+
+#u876
+{
+	z-index: 409;
+	width: 1030px;
+	padding-bottom: 231px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 225px;
+	background: transparent url("../images/el-inicio-del-ocaso-u876-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u877-4
+{
+	z-index: 410;
+	width: 400px;
+	min-height: 48px;
+	background-color: transparent;
+	color: #F3E6D5;
+	font-size: 21px;
+	text-align: center;
+	line-height: 25px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 315px;
+}
+
+#u884
+{
+	z-index: 44;
+	height: 580px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	background: transparent url("../images/c3-1-cdro-1.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u884-bw
+{
+	z-index: 44;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: 15465px;
+}
+
+#u1493-4
+{
+	z-index: 414;
+	width: 505px;
+	min-height: 38px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 20px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u891
+{
+	z-index: 45;
+	width: 610px;
+	height: 575px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 16065px;
+	left: 20px;
+	background: transparent url("../images/c3-2-cdro-2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u898
+{
+	z-index: 46;
+	width: 610px;
+	height: 575px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 16065px;
+	left: 650px;
+	background: transparent url("../images/c3-3-cdro-3.gif") no-repeat right center;
+	background-size: cover;
+}
+
+#u1889
+{
+	z-index: 56;
+	vertical-align: top;
+	width: 308px;
+	height: 199px;
+	position: fixed;
+	top: 16134px;
+	left: -26px;
+	background: url("../images/bang-u1889.png") no-repeat 0px 0px;
+}
+
+#pu1496-4
+{
+	width: 0.01px;
+	margin-left: 40px;
+	margin-top: 1043px;
+}
+
+#u1496-4
+{
+	z-index: 418;
+	width: 570px;
+	min-height: 54px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1497-4
+{
+	z-index: 464;
+	width: 570px;
+	min-height: 35px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 630px;
+}
+
+#u905
+{
+	z-index: 47;
+	width: 505px;
+	height: 582px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 16660px;
+	left: 20px;
+	background: transparent url("../images/c3-4-cdro-4.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u912
+{
+	z-index: 48;
+	width: 715px;
+	height: 582px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 16660px;
+	left: 545px;
+	background: transparent url("../images/c3-5-cdro-5.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1498-4
+{
+	z-index: 422;
+	width: 400px;
+	min-height: 53px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 73px;
+	margin-top: 60px;
+	position: relative;
+}
+
+#u1499-4
+{
+	z-index: 426;
+	width: 485px;
+	min-height: 54px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 755px;
+	margin-top: 434px;
+	position: relative;
+}
+
+#u919
+{
+	z-index: 49;
+	height: 686px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	background: transparent url("../images/c3-6-cdro-6.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u919-bw
+{
+	z-index: 49;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: 17262px;
+}
+
+#u1500-4
+{
+	z-index: 430;
+	width: 463px;
+	min-height: 55px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 20px;
+	margin-top: 60px;
+	position: relative;
+}
+
+#u926
+{
+	z-index: 50;
+	width: 610px;
+	height: 462px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 17968px;
+	left: 20px;
+	background: transparent url("../images/c3-7-cdro-7.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u933
+{
+	z-index: 51;
+	width: 610px;
+	height: 462px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 17968px;
+	left: 650px;
+	background: transparent url("../images/c3-8-cdro-8.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u1501-4
+{
+	z-index: 434;
+	width: 463px;
+	min-height: 53px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 40px;
+	margin-top: 651px;
+	position: relative;
+}
+
+#u1502-4
+{
+	z-index: 438;
+	width: 548px;
+	min-height: 54px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 670px;
+	margin-top: 314px;
+	position: relative;
+}
+
+#u1503
+{
+	z-index: 8;
+	min-height: 204px;
+	padding-bottom: 76px;
+	background: transparent url("../images/papel-largo-3.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u1504-4
+{
+	z-index: 468;
+	width: 1030px;
+	min-height: 129px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #202020;
+	font-size: 23px;
+	line-height: 28px;
+	letter-spacing: 1px;
+	text-align: left;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 75px;
+	left: 225px;
+}
+
+#u1503-bw
+{
+	z-index: 8;
+	min-height: 204px;
+	margin-top: 40px;
+}
+
+#u940
+{
+	z-index: 52;
+	width: 1241px;
+	height: 536px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 18750px;
+	left: 20px;
+	background: transparent url("../images/c3-9-cdro-9.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u1506-4
+{
+	z-index: 442;
+	width: 590px;
+	min-height: 73px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 19193px;
+	left: 650px;
+}
+
+#u947
+{
+	z-index: 54;
+	width: 715px;
+	height: 502px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 19306px;
+	left: 20px;
+	background: transparent url("../images/c3-10-cdro-10.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u954
+{
+	z-index: 55;
+	width: 505px;
+	height: 502px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 19306px;
+	left: 755px;
+	background: transparent url("../images/c3-11-cdro-11.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu1507-10
+{
+	width: 0.01px;
+	margin-left: 39px;
+	margin-top: 946px;
+}
+
+#u1507-10
+{
+	z-index: 454;
+	width: 676px;
+	min-height: 111px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1508-4
+{
+	z-index: 446;
+	width: 465px;
+	min-height: 92px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 736px;
+}
+
+#u963
+{
+	z-index: 53;
+	width: 1239px;
+	height: 536px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 19828px;
+	left: 21px;
+	background: transparent url("../images/c3-12-cdro-12.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1509-4
+{
+	z-index: 450;
+	width: 590px;
+	min-height: 73px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 20015px;
+	left: 125px;
+}
+
+#pu1511
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 596px;
+}
+
+#u1511
+{
+	z-index: 5;
+	min-height: 260px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	padding-bottom: 20px;
+	background: transparent url("../images/letras-t%c3%adtulo-4.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1049
+{
+	z-index: 234;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 330px;
+}
+
+#u1511-bw
+{
+	z-index: 5;
+	min-height: 260px;
+}
+
+#u1367-4
+{
+	z-index: 236;
+	width: 400px;
+	min-height: 48px;
+	background-color: transparent;
+	color: #F3E6D5;
+	font-size: 21px;
+	text-align: center;
+	line-height: 25px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 26px;
+	left: 540px;
+}
+
+#u1055
+{
+	z-index: 11;
+	width: 400px;
+	height: 645px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 20684px;
+	left: 20px;
+	background: transparent url("../images/c4-1-cdro-1.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u1062
+{
+	z-index: 12;
+	width: 820px;
+	height: 645px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 20684px;
+	left: 440px;
+	background: transparent url("../images/c4-2-cdro-2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1521-8
+{
+	z-index: 240;
+	width: 360px;
+	min-height: 112px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1523-6
+{
+	z-index: 248;
+	width: 485px;
+	min-height: 56px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 420px;
+}
+
+#u1069
+{
+	z-index: 13;
+	height: 706px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	background: transparent url("../images/c4-3-cdro-3.gif") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u1069-bw
+{
+	z-index: 13;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: 21349px;
+}
+
+#u1525-6
+{
+	z-index: 254;
+	width: 590px;
+	min-height: 91px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 40px;
+	margin-top: 553px;
+	position: relative;
+}
+
+#u1076
+{
+	z-index: 14;
+	width: 505px;
+	height: 759px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 22075px;
+	left: 20px;
+	background: transparent url("../images/c4-20-cdro-20.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1083
+{
+	z-index: 15;
+	width: 715px;
+	height: 759px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 22075px;
+	left: 545px;
+	background: transparent url("../images/c4-4-cdro-4.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu1527-4
+{
+	width: 0.01px;
+	margin-left: 100px;
+	margin-top: 634px;
+}
+
+#u1527-4
+{
+	z-index: 260;
+	width: 345px;
+	min-height: 36px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1528-6
+{
+	z-index: 264;
+	width: 485px;
+	min-height: 74px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 655px;
+}
+
+#u1090
+{
+	z-index: 16;
+	width: 1240px;
+	height: 743px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 22854px;
+	left: 20px;
+	background: transparent url("../images/c4-5-cdro-5.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u1530-4
+{
+	z-index: 270;
+	width: 695px;
+	min-height: 34px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 545px;
+	margin-top: 705px;
+	position: relative;
+}
+
+#u1098
+{
+	z-index: 17;
+	width: 1030px;
+	height: 647px;
+	-pie-box-shadow: 6px 6px 8px #7F7F7F;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	background-color: #202020;
+	margin-left: 125px;
+	margin-top: 708px;
+	position: relative;
+}
+
+#pslideshowu1736
+{
+	width: 0.01px;
+	padding-bottom: 647px;
+	margin-left: 125px;
+	margin-top: -647px;
+}
+
+#slideshowu1736
+{
+	z-index: 38;
+	width: 0.01px;
+	height: 647px;
+	position: fixed;
+	top: 23617px;
+	left: 125px;
+}
+
+#u1752
+{
+	position: absolute;
+	width: 1030px;
+	height: 647px;
+	background-color: transparent;
+}
+
+#u1752popup
+{
+	z-index: 39;
+}
+
+#u1759
+{
+	z-index: 40;
+	width: 1030px;
+	height: 647px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1831
+{
+	z-index: 42;
+	width: 1030px;
+	height: 647px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u1759_clip,#u1831_clip
+{
+	overflow: hidden;
+	width: 1030px;
+	height: 647px;
+}
+
+#u1759_img,#u1831_img
+{
+	margin-top: -10px;
+	margin-bottom: -11px;
+}
+
+#u1531-4
+{
+	z-index: 274;
+	width: 380px;
+	min-height: 32px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 23700px;
+	left: 145px;
+}
+
+#u1534-4
+{
+	z-index: 278;
+	width: 485px;
+	min-height: 32px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 24119px;
+	left: 650px;
+}
+
+#u1099
+{
+	z-index: 18;
+	width: 715px;
+	height: 503px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 24284px;
+	left: 20px;
+	background: transparent url("../images/c4-6-cdro-6.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1106
+{
+	z-index: 19;
+	width: 505px;
+	height: 503px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 24284px;
+	left: 755px;
+	background: transparent url("../images/c4-7-cdro-7.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1532-4
+{
+	z-index: 282;
+	width: 590px;
+	min-height: 72px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 40px;
+	margin-top: 40px;
+	position: relative;
+}
+
+#u1533-4
+{
+	z-index: 286;
+	width: 465px;
+	min-height: 92px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 775px;
+	margin-top: 298px;
+	position: relative;
+}
+
+#u1113
+{
+	z-index: 20;
+	width: 820px;
+	height: 568px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 24807px;
+	left: 20px;
+	background: transparent url("../images/c4-8-cdro-8.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1120
+{
+	z-index: 21;
+	width: 400px;
+	height: 568px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 24807px;
+	left: 860px;
+	background: transparent url("../images/c4-9-cdro-9.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#pu1535-4
+{
+	width: 0.01px;
+	margin-left: 125px;
+	margin-top: 462px;
+}
+
+#u1535-4
+{
+	z-index: 290;
+	width: 695px;
+	min-height: 92px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+}
+
+#pu1536-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 756px;
+}
+
+#u1536-4
+{
+	z-index: 294;
+	width: 359px;
+	min-height: 53px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #F3E6D5;
+	color: #202020;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1538-6
+{
+	z-index: 298;
+	width: 359px;
+	min-height: 54px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u1540
+{
+	z-index: 9;
+	min-height: 218px;
+	padding-bottom: 62px;
+	background: transparent url("../images/papel-largo.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u1541-10
+{
+	z-index: 392;
+	width: 1030px;
+	min-height: 157px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #202020;
+	font-size: 23px;
+	line-height: 28px;
+	letter-spacing: 1px;
+	text-align: left;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 61px;
+	left: 225px;
+}
+
+#u1540-bw
+{
+	z-index: 9;
+	min-height: 218px;
+	margin-top: 40px;
+}
+
+#u1127
+{
+	z-index: 22;
+	width: 400px;
+	height: 594px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 25695px;
+	left: 20px;
+	background: transparent url("../images/c4-10-cdro-10.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1134
+{
+	z-index: 23;
+	width: 820px;
+	height: 594px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 25695px;
+	left: 440px;
+	background: transparent url("../images/c4-11-cdro-11.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu1521-8,#pu1542-4
+{
+	width: 0.01px;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+
+#u1542-4
+{
+	z-index: 304;
+	width: 359px;
+	min-height: 70px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1543-4
+{
+	z-index: 388;
+	width: 400px;
+	min-height: 129px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 799px;
+}
+
+#u1141
+{
+	z-index: 24;
+	height: 542px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	background: transparent url("../images/c4-12-cdro-12.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u1141-bw
+{
+	z-index: 24;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: 26309px;
+}
+
+#u1544-4
+{
+	z-index: 308;
+	width: 505px;
+	min-height: 73px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 40px;
+	margin-top: 484px;
+	position: relative;
+}
+
+#u1545-4
+{
+	z-index: 364;
+	width: 337px;
+	min-height: 35px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #F3E6D5;
+	color: #202020;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 26562px;
+	left: 903px;
+}
+
+#u1148
+{
+	z-index: 25;
+	width: 610px;
+	height: 466px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 26871px;
+	left: 20px;
+	background: transparent url("../images/c4-13-cdro-13.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u1162
+{
+	z-index: 27;
+	width: 610px;
+	height: 466px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 26871px;
+	left: 650px;
+	background: transparent url("../images/c4-15-cdro-15.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#pu1547-4
+{
+	width: 0.01px;
+	margin-left: 40px;
+	margin-top: 489px;
+}
+
+#u1547-4
+{
+	z-index: 312;
+	width: 505px;
+	min-height: 52px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1548-4
+{
+	z-index: 316;
+	width: 505px;
+	min-height: 72px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 630px;
+}
+
+#u1155
+{
+	z-index: 26;
+	width: 820px;
+	height: 546px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 27357px;
+	left: 230px;
+	background: transparent url("../images/c4-14-cdro-14.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1549-4
+{
+	z-index: 320;
+	width: 464px;
+	min-height: 51px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 40px;
+	margin-top: 413px;
+	position: relative;
+}
+
+#u1551-8
+{
+	z-index: 368;
+	width: 464px;
+	min-height: 91px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #F3E6D5;
+	color: #202020;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 27451px;
+	left: 39px;
+}
+
+#u1558-4
+{
+	z-index: 328;
+	width: 464px;
+	min-height: 51px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 775px;
+	margin-top: 340px;
+	position: relative;
+}
+
+#u1555-4
+{
+	z-index: 324;
+	width: 275px;
+	min-height: 34px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #F3E6D5;
+	color: #202020;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 27845px;
+	left: 964px;
+}
+
+#u1573
+{
+	z-index: 10;
+	min-height: 238px;
+	padding-bottom: 70px;
+	background: transparent url("../images/papel-largo.png") no-repeat center center;
+	background-size: cover;
+}
+
+#u1690_align_to_page,#u1454_align_to_page,#u1479_align_to_page,#u1487_align_to_page,#u1503_align_to_page,#u1511_align_to_page,#u1540_align_to_page,#u1573_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1280px;
+	position: relative;
+	left: -100px;
+}
+
+#u1574-6
+{
+	z-index: 402;
+	width: 1030px;
+	min-height: 128px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #202020;
+	font-size: 23px;
+	line-height: 28px;
+	letter-spacing: 1px;
+	text-align: left;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 82px;
+	left: 225px;
+}
+
+#u1573-bw
+{
+	z-index: 10;
+	min-height: 238px;
+	margin-top: 98px;
+}
+
+#u1176
+{
+	z-index: 28;
+	width: 610px;
+	height: 561px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 28251px;
+	left: 20px;
+	background: #404040 url("../images/c4-23-cdro-23.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u1183
+{
+	z-index: 30;
+	width: 610px;
+	height: 561px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 28251px;
+	left: 650px;
+	background: transparent url("../images/c4-16-cdro-16.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1637-4
+{
+	z-index: 332;
+	width: 571px;
+	min-height: 54px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 39px;
+	margin-top: 40px;
+	position: relative;
+}
+
+#u1575
+{
+	z-index: 29;
+	width: 1240px;
+	height: 650px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 28832px;
+	left: 20px;
+	background: transparent url("../images/c4-17-cdro-17.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1640-4
+{
+	z-index: 336;
+	width: 758px;
+	min-height: 69px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 39px;
+	margin-top: 527px;
+	position: relative;
+}
+
+#u1605
+{
+	z-index: 37;
+	width: 820px;
+	height: 668px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 29502px;
+	left: 20px;
+	background: #F3E6D5 url("../images/c4-26-cdro-26.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u1576
+{
+	z-index: 31;
+	width: 400px;
+	height: 668px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 29502px;
+	left: 860px;
+	background: transparent url("../images/c4-22-cdro-22.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu1642-4
+{
+	width: 0.01px;
+	margin-left: 39px;
+	margin-top: 597px;
+}
+
+#u1642-4
+{
+	z-index: 340;
+	width: 696px;
+	min-height: 34px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1644-4
+{
+	z-index: 344;
+	width: 295px;
+	min-height: 74px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 873px;
+}
+
+#u1584
+{
+	z-index: 32;
+	width: 1033px;
+	height: 728px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 30189px;
+	left: 123px;
+	background: transparent url("../images/c4-18-cdro-18.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1645-4
+{
+	z-index: 348;
+	width: 590px;
+	min-height: 90px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 545px;
+	margin-top: 614px;
+	position: relative;
+}
+
+#u1591
+{
+	z-index: 33;
+	width: 611px;
+	height: 806px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 30938px;
+	left: 19px;
+	background: transparent url("../images/c4-21-cdro-21.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1598
+{
+	z-index: 35;
+	width: 611px;
+	height: 806px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 30938px;
+	left: 649px;
+	background: transparent url("../images/c4-19-cdro-19.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pu1646-4
+{
+	width: 0.01px;
+	margin-left: 40px;
+	margin-top: 656px;
+}
+
+#u1646-4
+{
+	z-index: 352;
+	width: 569px;
+	min-height: 71px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#pu1648-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 630px;
+}
+
+#u1648-4
+{
+	z-index: 360;
+	width: 505px;
+	min-height: 36px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1650-4
+{
+	z-index: 384;
+	width: 505px;
+	min-height: 75px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #F3E6D5;
+	color: #202020;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-top: 21px;
+	position: relative;
+}
+
+#u1624
+{
+	z-index: 34;
+	width: 504px;
+	height: 699px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 31765px;
+	left: 126px;
+	background: transparent url("../images/c4-24-cdro-24.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1623
+{
+	z-index: 36;
+	width: 506px;
+	height: 699px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: fixed;
+	top: 31765px;
+	left: 649px;
+	background: transparent url("../images/c4-25-cdro-25.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1649-4
+{
+	z-index: 376;
+	width: 464px;
+	min-height: 55px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #F3E6D5;
+	color: #202020;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 145px;
+	margin-top: 694px;
+	position: relative;
+}
+
+#u1651-4
+{
+	z-index: 380;
+	width: 464px;
+	min-height: 91px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #F3E6D5;
+	color: #202020;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-transform: none;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	margin-left: 670px;
+	margin-top: 513px;
+	position: relative;
+}
+
+#u1654-4
+{
+	z-index: 356;
+	display: block;
+	vertical-align: top;
+	margin-left: 123px;
+	margin-top: 56px;
+	position: relative;
+}
+
+#u506-4
+{
+	z-index: 223;
+	width: 465px;
+	min-height: 78px;
+	-pie-box-shadow: 4px 4px 8px #A5A5A5;
+	box-shadow: 4px 4px 8px rgba(32,32,32,0.4);
+	border-style: none;
+	border-color: transparent;
+	background-color: #202020;
+	color: #F3E6D5;
+	font-size: 16px;
+	line-height: 19px;
+	letter-spacing: 1px;
+	font-family: architects-daughter, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	top: 4904px;
+	left: 691px;
+}
+
+#u168-2,#u189-2,#u500-2,#u200-4,#u508-2,#u509-2,#u511-4,#u512-4,#u515-4,#u516-2,#u518-6,#u519-2,#u522-2,#u526-2,#u524-2,#u527-2,#u529-2,#u176-2,#u531-4,#u698-2,#u699-4,#u700-4,#u701-4,#u702-2,#u703-2,#u706-4,#u708-2,#u709-2,#u710-2,#u712-4,#u713-2,#u715-2,#u1493-2,#u1496-2,#u1497-2,#u1498-2,#u1499-2,#u1500-2,#u1501-2,#u1502-2,#u1504-2,#u1506-2,#u1507-8,#u1508-2,#u1509-2,#u1521-6,#u1523-4,#u1525-4,#u1527-2,#u1528-4,#u1530-2,#u1531-2,#u1534-2,#u1532-2,#u1533-2,#u1535-2,#u1536-2,#u1538-4,#u1541-8,#u1542-2,#u1543-2,#u1544-2,#u1545-2,#u1547-2,#u1548-2,#u1549-2,#u1551-6,#u1558-2,#u1555-2,#u1574-4,#u1637-2,#u1640-2,#u1642-2,#u1644-2,#u1645-2,#u1646-2,#u1648-2,#u1650-2,#u1649-2,#u1651-2,#u506-2
+{
+	padding: 8px;
+}
+
+.js #u509-4.ose_pre_init,.js #u511-6.ose_pre_init,.js #u526-4.ose_pre_init,.js #u239.ose_pre_init,.js #u246.ose_pre_init,.js #u1861.ose_pre_init,.js #u253.ose_pre_init,.js #u258.ose_pre_init,.js #u268.ose_pre_init,.js #u176-4.ose_pre_init,.js #u276.ose_pre_init,.js #u283.ose_pre_init,.js #u291.ose_pre_init,.js #u298.ose_pre_init,.js #u305.ose_pre_init,.js #u313.ose_pre_init,.js #u347.ose_pre_init,.js #u327.ose_pre_init,.js #u346.ose_pre_init,.js #u363.ose_pre_init,.js #u370.ose_pre_init,.js #u379.ose_pre_init,.js #u386.ose_pre_init,.js #u778.ose_pre_init,.js #u402.ose_pre_init,.js #u411.ose_pre_init,.js #u417.ose_pre_init,.js #u426.ose_pre_init,.js #u433.ose_pre_init,.js #u442.ose_pre_init,.js #u452.ose_pre_init,.js #u459.ose_pre_init,.js #u466.ose_pre_init,.js #u476.ose_pre_init,.js #u531-6.ose_pre_init,.js #u595.ose_pre_init,.js #u608.ose_pre_init,.js #u615.ose_pre_init,.js #u622.ose_pre_init,.js #u700-6.ose_pre_init,.js #u630.ose_pre_init,.js #u844.ose_pre_init,.js #u1868.ose_pre_init,.js #u701-6.ose_pre_init,.js #u637.ose_pre_init,.js #u644.ose_pre_init,.js #u1875.ose_pre_init,.js #u1882.ose_pre_init,.js #u708-4.ose_pre_init,.js #u664.ose_pre_init,.js #u671.ose_pre_init,.js #u678.ose_pre_init,.js #u715-4.ose_pre_init,.js #u884.ose_pre_init,.js #u1493-4.ose_pre_init,.js #u891.ose_pre_init,.js #u898.ose_pre_init,.js #u1889.ose_pre_init,.js #u1496-4.ose_pre_init,.js #u1497-4.ose_pre_init,.js #u905.ose_pre_init,.js #u912.ose_pre_init,.js #u1498-4.ose_pre_init,.js #u1499-4.ose_pre_init,.js #u919.ose_pre_init,.js #u1500-4.ose_pre_init,.js #u926.ose_pre_init,.js #u933.ose_pre_init,.js #u1501-4.ose_pre_init,.js #u1502-4.ose_pre_init,.js #u940.ose_pre_init,.js #u1506-4.ose_pre_init,.js #u947.ose_pre_init,.js #u954.ose_pre_init,.js #u1507-10.ose_pre_init,.js #u1508-4.ose_pre_init,.js #u963.ose_pre_init,.js #u1509-4.ose_pre_init,.js #u1055.ose_pre_init,.js #u1062.ose_pre_init,.js #u1521-8.ose_pre_init,.js #u1523-6.ose_pre_init,.js #u1069.ose_pre_init,.js #u1525-6.ose_pre_init,.js #u1076.ose_pre_init,.js #u1083.ose_pre_init,.js #u1527-4.ose_pre_init,.js #u1528-6.ose_pre_init,.js #u1090.ose_pre_init,.js #u1530-4.ose_pre_init,.js #u1531-4.ose_pre_init,.js #u1534-4.ose_pre_init,.js #u1099.ose_pre_init,.js #u1106.ose_pre_init,.js #u1532-4.ose_pre_init,.js #u1533-4.ose_pre_init,.js #u1113.ose_pre_init,.js #u1120.ose_pre_init,.js #u1535-4.ose_pre_init,.js #u1536-4.ose_pre_init,.js #u1538-6.ose_pre_init,.js #u1127.ose_pre_init,.js #u1134.ose_pre_init,.js #u1542-4.ose_pre_init,.js #u1543-4.ose_pre_init,.js #u1141.ose_pre_init,.js #u1544-4.ose_pre_init,.js #u1545-4.ose_pre_init,.js #u1148.ose_pre_init,.js #u1162.ose_pre_init,.js #u1547-4.ose_pre_init,.js #u1548-4.ose_pre_init,.js #u1155.ose_pre_init,.js #u1549-4.ose_pre_init,.js #u1551-8.ose_pre_init,.js #u1558-4.ose_pre_init,.js #u1555-4.ose_pre_init,.js #u1176.ose_pre_init,.js #u1183.ose_pre_init,.js #u1637-4.ose_pre_init,.js #u1575.ose_pre_init,.js #u1640-4.ose_pre_init,.js #u1605.ose_pre_init,.js #u1576.ose_pre_init,.js #u1642-4.ose_pre_init,.js #u1644-4.ose_pre_init,.js #u1584.ose_pre_init,.js #u1645-4.ose_pre_init,.js #u1591.ose_pre_init,.js #u1598.ose_pre_init,.js #u1646-4.ose_pre_init,.js #u1648-4.ose_pre_init,.js #u1650-4.ose_pre_init,.js #u1624.ose_pre_init,.js #u1623.ose_pre_init,.js #u1649-4.ose_pre_init,.js #u1651-4.ose_pre_init,.js #u1654-4.ose_pre_init,.js #u506-4.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u1656
+{
+	z-index: 408;
+	height: 128px;
+	-pie-box-shadow: -8px 0px 8px #7F7F7F;
+	box-shadow: -8px 0px 8px rgba(0,0,0,0.5);
+	background: #858D5F url("../images/letras-t%c3%adtulo-0.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u1656-bw
+{
+	z-index: 408;
+	margin-top: 23px;
+	height: 128px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1280px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
