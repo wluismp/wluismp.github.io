@@ -1,0 +1,133 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="false" exportTarget="other" domain="www.armando.ifo" resolutions="1x" timestamp="1556170997049">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3892002282" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="letras-título-color4.jpg" crc="143484613" ref="index"/>
+    <file name="armando-logo negro.png" crc="4283956905" seo="true" ref="index"/>
+    <file name="u559-8.png" crc="4019959959" ref="index"/>
+    <file name="flecha.png" crc="4186439507" ref="index"/>
+    <file name="letras-título-01.jpg" crc="3989378953" ref="index"/>
+    <file name="el-inicio-u760.png" crc="3784246568" ref="index"/>
+    <file name="1-cdro-1-2.gif" crc="247792250" ref="index"/>
+    <file name="2-cdro-2.jpg" crc="398606096" ref="index"/>
+    <file name="3-cdro-3.jpg" crc="4256344300" ref="index"/>
+    <file name="los-pacos-u1861.png" crc="323468532" ref="index"/>
+    <file name="4-cdro-4.jpg" crc="271631389" ref="index"/>
+    <file name="5-cdro-5.jpg" crc="4134328987" ref="index"/>
+    <file name="6-cdro-6-u268-fr.png" crc="264308515" ref="index"/>
+    <file name="7-cdro-7.jpg" crc="284817631" ref="index"/>
+    <file name="8-cdro-8.gif" crc="4096738649" ref="index"/>
+    <file name="9-cdro-9.jpg" crc="297456796" ref="index"/>
+    <file name="10-cdro-10.jpg" crc="195197193" ref="index"/>
+    <file name="11-cdro-11.jpg" crc="527943710" ref="index"/>
+    <file name="12-cdro-12.jpg" crc="3921683589" ref="index"/>
+    <file name="13-cdro-13.jpg" crc="428498026" ref="index"/>
+    <file name="14-cdro-14.jpg" crc="378806876" ref="index"/>
+    <file name="15-cdro-15.gif" crc="209936334" ref="index"/>
+    <file name="16-cdro-16.jpg" crc="244038392" ref="index"/>
+    <file name="17-cdro-17.jpg" crc="465945287" ref="index"/>
+    <file name="18-cdro-18.jpg" crc="148413511" ref="index"/>
+    <file name="19-cdro-19.jpg" crc="3876397313" ref="index"/>
+    <file name="20-cdro-20-u778.png" crc="169778838" ref="index"/>
+    <file name="21-cdro-21.jpg" crc="304320096" ref="index"/>
+    <file name="22-cdro-22.gif" crc="4229307524" ref="index"/>
+    <file name="23-cdro-23.jpg" crc="365890848" ref="index"/>
+    <file name="24-cdro-24.jpg" crc="4038459185" ref="index"/>
+    <file name="25-cdro-25.jpg" crc="4289663629" ref="index"/>
+    <file name="26-cdro-26.jpg" crc="4129034825" ref="index"/>
+    <file name="27-cdro-27.jpg" crc="3783189123" ref="index"/>
+    <file name="28-cdro-28.jpg" crc="346530594" ref="index"/>
+    <file name="29-cdro-29.jpg" crc="4228394289" ref="index"/>
+    <file name="30-cdro-30.jpg" crc="4144533790" ref="index"/>
+    <file name="letras-título-2.jpg" crc="4166778258" ref="index"/>
+    <file name="la-toma-del-poder-u813-fr.png" crc="296881036" ref="index"/>
+    <file name="c2-1-cdro-1.jpg" crc="4266794920" ref="index"/>
+    <file name="c2-2-cdro-2.jpg" crc="155223974" ref="index"/>
+    <file name="c2-3-cdro-3.jpg" crc="407029093" ref="index"/>
+    <file name="c2-4-cdro-4.gif" crc="3831230801" ref="index"/>
+    <file name="c2-5-cdro-5-2.jpg" crc="521989115" ref="index"/>
+    <file name="rocas-u844.png" crc="311093676" ref="index"/>
+    <file name="boom-u1868.png" crc="299561025" ref="index"/>
+    <file name="c2-6-cdro-6.gif" crc="457551135" ref="index"/>
+    <file name="c2-7-cdro-7.jpg" crc="3917477086" ref="index"/>
+    <file name="bang-u1875.png" crc="3878732314" ref="index"/>
+    <file name="pwsk-u1882.png" crc="348255792" ref="index"/>
+    <file name="papel-largo-1.png" crc="127574848" ref="index"/>
+    <file name="c2-8-cdro-8.jpg" crc="4002836286" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="c2-8-cdro-8-2.jpg" crc="3962648169" seo="true" ref="index"/>
+    <file name="c2-8-cdro-8-3.jpg" crc="499136649" seo="true" ref="index"/>
+    <file name="c2-8-cdro-8-4.jpg" crc="3951627704" seo="true" ref="index"/>
+    <file name="c2-8-cdro-8-5.jpg" crc="3962648169" seo="true" ref="index"/>
+    <file name="c2-8-cdro-8-6.jpg" crc="499136649" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="c2-9-cdro-9.jpg" crc="494948703" ref="index"/>
+    <file name="c2-10-cdro-10.jpg" crc="3914633729" ref="index"/>
+    <file name="papel-largo-2.png" crc="4160005993" ref="index"/>
+    <file name="c2-11-cdro-11.jpg" crc="3959490036" ref="index"/>
+    <file name="letras-título-3.jpg" crc="83592701" ref="index"/>
+    <file name="el-inicio-del-ocaso-u876-fr.png" crc="281151158" ref="index"/>
+    <file name="c3-1-cdro-1.gif" crc="4193288095" ref="index"/>
+    <file name="c3-2-cdro-2.jpg" crc="3864014122" ref="index"/>
+    <file name="c3-3-cdro-3.gif" crc="3842342947" ref="index"/>
+    <file name="bang-u1889.png" crc="3878732314" ref="index"/>
+    <file name="c3-4-cdro-4.jpg" crc="4091442765" ref="index"/>
+    <file name="c3-5-cdro-5.jpg" crc="518510925" ref="index"/>
+    <file name="c3-6-cdro-6.jpg" crc="330204879" ref="index"/>
+    <file name="c3-7-cdro-7.jpg" crc="4201191134" ref="index"/>
+    <file name="c3-8-cdro-8.gif" crc="4018824854" ref="index"/>
+    <file name="papel-largo-3.png" crc="3823719736" ref="index"/>
+    <file name="c3-9-cdro-9.gif" crc="4261087772" ref="index"/>
+    <file name="c3-10-cdro-10.jpg" crc="254330589" ref="index"/>
+    <file name="c3-11-cdro-11.jpg" crc="22471454" ref="index"/>
+    <file name="c3-12-cdro-12.jpg" crc="4146523195" ref="index"/>
+    <file name="letras-título-4.jpg" crc="3869950061" ref="index"/>
+    <file name="la-lucha-contra-mariela-casado-u1049.png" crc="3850816904" ref="index"/>
+    <file name="c4-1-cdro-1.jpg" crc="4280287407" ref="index"/>
+    <file name="c4-2-cdro-2.jpg" crc="4042163392" ref="index"/>
+    <file name="c4-3-cdro-3.gif" crc="3840167276" ref="index"/>
+    <file name="c4-20-cdro-20.jpg" crc="3815357968" ref="index"/>
+    <file name="c4-4-cdro-4.jpg" crc="3947116829" ref="index"/>
+    <file name="c4-5-cdro-5.jpg" crc="4084157897" ref="index"/>
+    <file name="c4-27-cdro-27.gif" crc="257460103" seo="true" ref="index"/>
+    <file name="c4-27-cdro-27-1.gif" crc="131793087" seo="true" ref="index"/>
+    <file name="c4-6-cdro-6.jpg" crc="4236055185" ref="index"/>
+    <file name="c4-7-cdro-7.jpg" crc="4074214422" ref="index"/>
+    <file name="c4-8-cdro-8.jpg" crc="477294284" ref="index"/>
+    <file name="c4-9-cdro-9.jpg" crc="379525944" ref="index"/>
+    <file name="papel-largo.png" crc="351535969" ref="index"/>
+    <file name="c4-10-cdro-10.jpg" crc="94354390" ref="index"/>
+    <file name="c4-11-cdro-11.jpg" crc="3954294421" ref="index"/>
+    <file name="c4-12-cdro-12.jpg" crc="3810075233" ref="index"/>
+    <file name="c4-13-cdro-13.gif" crc="3823972889" ref="index"/>
+    <file name="c4-15-cdro-15.jpg" crc="3772734468" ref="index"/>
+    <file name="c4-14-cdro-14.jpg" crc="3984243517" ref="index"/>
+    <file name="c4-23-cdro-23.gif" crc="2008397" ref="index"/>
+    <file name="c4-16-cdro-16.jpg" crc="444307131" ref="index"/>
+    <file name="c4-17-cdro-17.jpg" crc="3917771923" ref="index"/>
+    <file name="c4-26-cdro-26.jpg" crc="317539240" ref="index"/>
+    <file name="c4-22-cdro-22.jpg" crc="4084015396" ref="index"/>
+    <file name="c4-18-cdro-18.jpg" crc="4149933424" ref="index"/>
+    <file name="c4-21-cdro-21.jpg" crc="402073281" ref="index"/>
+    <file name="c4-19-cdro-19.jpg" crc="121496566" ref="index"/>
+    <file name="c4-24-cdro-24.jpg" crc="3983132337" ref="index"/>
+    <file name="c4-25-cdro-25.jpg" crc="205347679" ref="index"/>
+    <file name="u1654-4.png" crc="4075272734" ref="index"/>
+    <file name="letras-título-0.jpg" crc="97135384" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4047253031" seo="true" mt="1556170924993" redirect="true"/>
+</manifest>
